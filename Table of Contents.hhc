@@ -1,0 +1,512 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NBS Contract Administrator help files">
+		<param name="Local" value="CAhelp_Welcome.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="About NBS Contract Administrator">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Copyright">
+				<param name="Local" value="CAhelp_CopyrightNotice.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Terms and conditions">
+				<param name="Local" value="CAhelp_TermsAndConditions.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Introduction">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Features">
+				<param name="Local" value="CAhelp_features.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Terminology">
+				<param name="Local" value="CAhelp_terminology.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Licensing">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Licensing">
+				<param name="Local" value="CAhelp_licensing.htm">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Renewing your licence">
+					<param name="Local" value="CAhelp_relicence.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Data store setup">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Data stores">
+				<param name="Local" value="CAhelp_datasource.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Creating a new data store">
+				<param name="Local" value="CAhelp_newDatasource.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Finding an existing data store">
+				<param name="Local" value="CAhelp_browseDataStore.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Quick start">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Starting Up Contract Administrator">
+				<param name="Local" value="CAhelp_startupPage.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Terminology">
+				<param name="Local" value="CAhelp_terminology.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Setting up NBS Contract Administrator for your company">
+				<param name="Local" value="CAhelp_toolissuer.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Browsing the demo jobs">
+				<param name="Local" value="CAhelp_demojobs.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Creating a new job">
+				<param name="Local" value="CAhelp_creatingNewJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Opening an active job">
+				<param name="Local" value="CAhelp_activejob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How to add a form">
+				<param name="Local" value="CAhelp_addingForm.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How to edit a form">
+				<param name="Local" value="CAhelp_editingForm.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Previewing and printing a draft form">
+				<param name="Local" value="CAhelp_draftForm.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Issuing a form">
+				<param name="Local" value="CAhelp_issue.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Recalling a form">
+				<param name="Local" value="CAhelp_recall.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contract Administrator interface and customisation">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Terminology">
+				<param name="Local" value="CAhelp_terminology.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sorting the jobs list">
+				<param name="Local" value="CAhelp_sortingJobList.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Viewing real, demo and archived Jobs">
+				<param name="Local" value="CAhelp_viewjobs.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Customising Contract Administrator view">
+				<param name="Local" value="CAhelp_customiseview.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Toolbars">
+				<param name="Local" value="CAhelp_toolbars.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Setting up Contract Administrator for your company">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Issuer details">
+				<param name="Local" value="CAhelp_toolissuer.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Global distribution lists">
+				<param name="Local" value="CAhelp_globaldistributionlists.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Changing form serial numbers">
+				<param name="Local" value="cahelp_OptionsSetup.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Instruction types">
+				<param name="Local" value="CAhelp_instructiontypes.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Roles">
+				<param name="Local" value="CAhelp_toolsroles.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Change the data store">
+				<param name="Local" value="cahelp_OptionsFileLocations.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Creating, setting up and archiving jobs">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Creating a new job">
+				<param name="Local" value="CAhelp_creatingNewJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Setting up a new job">
+				<param name="Local" value="CAhelp_settingUpJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Amending job settings">
+				<param name="Local" value="CAhelp_editingCurrentJobs.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Job team editor">
+				<param name="Local" value="CAhelp_jobteameditor.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sectional completion editor">
+				<param name="Local" value="CAhelp_sectionalcompletioneditor.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Changing the jobs in the job explorer">
+				<param name="Local" value="CAhelp_viewjobs.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Archiving jobs">
+				<param name="Local" value="CAhelp_archivingJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Deleting jobs">
+				<param name="Local" value="CAhelp_jobdelete.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Setting up a job in progress">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Creating a new job in progress">
+				<param name="Local" value="CAhelp_creatingnewjobprogress.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Current status tab">
+				<param name="Local" value="CAhelp_currentstatustab.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Form numbering tab">
+				<param name="Local" value="CAhelp_formnumberingtab.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sectional completion tab">
+				<param name="Local" value="CAhelp_sectionalcompletiontab.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Editing and issuing forms">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Adding a form to a job">
+				<param name="Local" value="CAhelp_addingForm.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Editing forms">
+				<param name="Local" value="CAhelp_editingForm.htm">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing an Architects instruction">
+					<param name="Local" value="CAhelp_completingai.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Clerk of works direction">
+					<param name="Local" value="CAhelp_completingcowdirect.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Edting a Certificate of Completion of making good defects">
+					<param name="Local" value="CAhelp_completinggooddefects.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing an Adjustment of Completion Date">
+					<param name="Local" value="CAhelp_completingextendtime.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Certificate of interim payment">
+					<param name="Local" value="CAhelp_completingintpayment.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Final certificate">
+					<param name="Local" value="CAhelp_completingfinalcert.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Certificate of non-completion">
+					<param name="Local" value="CAhelp_completingnoncomp.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Statement of partial possession by the employer">
+					<param name="Local" value="CAhelp_completingpartialposs.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Certificate of practical completion">
+					<param name="Local" value="CAhelp_completingpraccomp.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing of Progress Payments">
+					<param name="Local" value="CAhelp_completingprogpay.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Notification of revision to completion date">
+					<param name="Local" value="CAhelp_completingrevcomplete.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Statement of reimbursement of advance payment">
+					<param name="Local" value="CAhelp_completingreimburse.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Editing a Record of reimbursement of advance payment">
+					<param name="Local" value="CAhelp_completingrecordreimburse.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Instruction items cost tracking">
+				<param name="Local" value="CAhelp_costtracking.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Form distribution lists">
+				<param name="Local" value="CAhelp_formDistributionLists.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Spell checking your forms">
+				<param name="Local" value="CAhelp_toolsSpellchecker.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Previewing and printing a draft form">
+				<param name="Local" value="CAhelp_draftForm.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Transmittal sheets">
+				<param name="Local" value="CAhelp_Transmittalsheets.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Issue">
+				<param name="Local" value="CAhelp_issue.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Recalling a form">
+				<param name="Local" value="CAhelp_recall.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Managing the address book">
+			<param name="Local" value="CAhelp_addressBook.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Options in NBS Contract Administrator">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Setup">
+				<param name="Local" value="cahelp_OptionsSetup.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Form Logo">
+				<param name="Local" value="cahelp_OptionsFormLogo.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="File Locations">
+				<param name="Local" value="cahelp_OptionsFileLocations.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Display">
+				<param name="Local" value="cahelp_OptionsDisplay.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Getting guidance while you work">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Contract Administrator guidance">
+				<param name="Local" value="CAhelp_CaGuidance.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Search guidance">
+				<param name="Local" value="CAhelp_searchGuidance.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sync guidance">
+				<param name="Local" value="CAhelp_syncGuidance.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Print guidance">
+				<param name="Local" value="CAhelp_printGuidance.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Financial and progress reporting">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reports">
+				<param name="Local" value="CAhelp_reports.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Printing">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Printing and exporting">
+				<param name="Local" value="CAhelp_printing.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tools">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Spellchecker">
+				<param name="Local" value="CAhelp_toolsSpellchecker.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Licence status">
+				<param name="Local" value="CAhelp_toolsLicenseStatus.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Archiving jobs">
+				<param name="Local" value="CAhelp_archivingJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NBS tools">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Compact and repair">
+					<param name="Local" value="CAhelp_toolsCompactAndRepair.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Remove project locks">
+					<param name="Local" value="CAhelp_toolsRemoveProjectLocks.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="LAN Settings">
+					<param name="Local" value="cahelp_proxy.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FAQ's">
+			<param name="Local" value="CAhelp_FAQ.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How do I re-order my Jobs list?">
+				<param name="Local" value="CAhelp_sortingJobList.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How do I hide cost information on an Architect/Contract Administrator's Instruction?">
+				<param name="Local" value="FAQ2.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="All of my certificates have the Serial Number prefixed to SNUM - how can I change this?">
+				<param name="Local" value="cahelp_OptionsSetup.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="What are Item/Instruction Types and how do I use them?">
+				<param name="Local" value="FAQ4.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="I've finished a contract and would like to remove it from the list. How do I do this?">
+				<param name="Local" value="CAhelp_archivingJob.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How can I add custom Roles to my job and include them in the Transmittal Sheet?">
+				<param name="Local" value="FAQ7.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Why can't I change my Issued Form back to Draft to correct an error?">
+				<param name="Local" value="FAQ8.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Payment figures are calculated automatically and we normally round figures to the nearest &pound;1 - how do I override this?">
+				<param name="Local" value="FAQ9.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="What is the Draft Number on an Instruction and why does it print on the Issued Form?">
+				<param name="Local" value="FAQ10.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contact us">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="How to contact NBS">
+				<param name="Local" value="CAhelp_ContactSupport.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Training courses">
+				<param name="Local" value="CAhelp_training_courses.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Send feedback">
+				<param name="Local" value="CAhelp_sendFeedback.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>
